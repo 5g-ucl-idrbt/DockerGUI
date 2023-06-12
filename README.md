@@ -1,5 +1,4 @@
-# DockerGUI
-Create DOcker with GUI
+
 
 
 
@@ -69,24 +68,6 @@ Installing Docker,Run VncServer docker image,connecting VncServer through vncvie
     
 
 
-```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
 
 
 
@@ -118,10 +99,28 @@ Installing Docker,Run VncServer docker image,connecting VncServer through vncvie
 
 
 
+
+
     
 
 
-```
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
 
 
 
