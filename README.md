@@ -1,14 +1,9 @@
-
-
-
 # Installation  VNCServer(Docker image) on Ubuntu(Bare metal)
 
 
 
 
-Installing Docker,Run VncServer docker image,connecting VncServer through vncviewer
-
-
+## Installing Docker,Run VncServer docker image,connecting VncServer through vncviewer
 ```bash
   $sudo apt update
   $sudo apt install apt-transport-https ca-certificates curl software-properties-common
